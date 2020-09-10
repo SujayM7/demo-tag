@@ -3,7 +3,7 @@
 
 # TEAM
 
-    sujay -- Quality Analyst -- DPSU@twitter
+    sujay -- Devops Engineer -- DPSU@twitter
 
 # THANKS
 
